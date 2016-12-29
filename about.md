@@ -3,8 +3,13 @@ layout: page
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<strong>By Parents for Parents</strong>
+<p>
+Teampools is an organization on a mission to help Parents get their kids to the teams that they love. The more kids you have in teams the harder it is, and the better those kids get, the harder it is to manage practice and competitions. We are here to try to make lives easier.
+</p>
+<p>
+About Us
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+</p>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
