@@ -19,5 +19,5 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [teamPOOL docs][teamPOOLS] for more info on how to get the most out of teamPOOLS.  If you have questions, you can ask them on [teamPOOL’s dedicated Help repository][teamPOOLS-help].
+Check out the [teamPOOL docs][teamPOOLS] for more info on how to get the most out of teamPOOLS. 
 
