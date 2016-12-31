@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "safety"
+title:  "Safety"
 date:   2016-12-29 13:46:40
 categories: /safety/
 ---
