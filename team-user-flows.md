@@ -1,8 +1,11 @@
 <div>
-team user flows
-
-team member wants a ride
-
+<h2>team user flows</h2>
+<br>
+team member wants a ride<br>
+<br>
+<strong>Basic principles:</strong>
+if user get to the resort they need to get home
+<br>
 <p>
 Squaw<br>
 team member wants to get to Squaw<br>
