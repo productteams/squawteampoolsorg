@@ -15,7 +15,7 @@ team member wants to get from Resort to Home
 <li>INTRA-VALLEY SHUTTLE</li>
 <li>TART</li>
 <li>TEAMPOOL</li>
-<li>TEAMPOOL</li>
+<li>RIDESHARE</li>
 </ul>
 </p>
 <hr>
@@ -27,7 +27,7 @@ team member wants to get to Truckee Hub<br>
 <li>INTRA-VALLEY SHUTTLE</li>
 <li>TART</li>
 <li>TEAMPOOL</li>
-<li>TEAMPOOL</li>
+<li>RIDESHARE</li>
 </p>
 <hr>
 <p>
@@ -38,7 +38,7 @@ team member wants to get to Tahoe city Hub<br>
 <li>ParkNRide SHUTTLE</li>
 <li>TART</li>
 <li>TEAMPOOL</li>
-<li>TEAMPOOL</li>
+<li>RIDESHARE</li>
 </p>
 <hr>
 <p>
@@ -48,7 +48,9 @@ team member wants to get to Reno<br>
 <li>CAR</li>
 <li>ParkNRide SHUTTLE</li>
 <li>TART</li>
-<li>TEAMPOOL</li>
+<li>RIDESHARE</li>
+<li>ZEPHYR-TRAIN</li>
+<li>AMTRACK-TRAIN+BUS</li>
 </p>
 <hr>
 <p>
@@ -59,6 +61,9 @@ team member wants to get to Reno<br>
 <li>ParkNRide SHUTTLE</li>
 <li>TART</li>
 <li>TEAMPOOL</li>
+<li>RIDESHARE</li>
+<li>ZEPHYR-TRAIN</li>
+<li>AMTRACK-TRAIN+BUS</li>
 </p>
 <hr>
 <p>
@@ -69,6 +74,9 @@ team member wants to get to Reno<br>
 <li>ParkNRide SHUTTLE</li>
 <li>TART</li>
 <li>TEAMPOOL</li>
+<li>RIDESHARE</li>
+<li>ZEPHYR-TRAIN</li>
+<li>AMTRACK-TRAIN+BUS</li>
 </p>
 <hr>
 <p>
@@ -79,6 +87,9 @@ team member wants to get to Reno<br>
 <li>ParkNRide SHUTTLE</li>
 <li>TART</li>
 <li>TEAMPOOL</li>
+<li>RIDESHARE</li>
+<li>ZEPHYR-TRAIN</li>
+<li>AMTRACK-TRAIN+BUS</li>
 </p>
 <hr>
 </div>
