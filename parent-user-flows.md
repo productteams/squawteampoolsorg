@@ -23,10 +23,10 @@ Parent want to pick up a team member who  wants to get from Resort to Home<br>
 </p>
 <hr>
 <p>
-<strong>Truckee Pick Up<br>
+<strong>Truckee Pick Up</strong><br>
 Parent want to pick up a team member who team member wants to get to Squaw<br>
 <br>
-<strong>Truckee-Drop OFf<br>
+<strong>Truckee-Drop OFf</strong><br>
 Parent want to pick up a team member who team member wants to get to Truckee Hub<br>
 <li>CAR</li>
 <li>INTRA-VALLEY SHUTTLE</li>
@@ -49,10 +49,10 @@ Parent want to pick up a team member who team member wants to get to Tahoe city 
 </p>
 <hr>
 <p>
-<strong>Reno Pick Up <br>
+<strong>Reno Pick Up </strong><br>
 Parent want to pick up a team member who  team member wants to get to Squaw<br>
 <br>
-<strong>Reno Drop-Off<br>
+<strong>Reno Drop-Off</strong><br>
 Parent want to pick up a team member who  team member wants to get to Reno<br>
 <li>CAR</li>
 <li>ParkNRide SHUTTLE</li>
@@ -63,11 +63,11 @@ Parent want to pick up a team member who  team member wants to get to Reno<br>
 </p>
 <hr>
 <p>
-<strong>Sacramento Pick Up<br>
+<strong>Sacramento Pick Up</strong><br>
 Parent want to pick up a team member who team member wants to get to Squaw<br>
 <br>
-<strong>Sacramento Drop Off<br>
-Parent want to pick up a team member who team member wants to get to Reno<br>
+<strong>Sacramento Drop Off</strong><br>
+Parent want to pick up a team member who team member wants to get to Sacramento<br>
 <li>CAR</li>
 <li>ParkNRide SHUTTLE</li>
 <li>TART</li>
@@ -78,11 +78,11 @@ Parent want to pick up a team member who team member wants to get to Reno<br>
 </p>
 <hr>
 <p>
-<strong>San Francisco Pick Up<br>
+<strong>San Francisco Pick Up</strong><br>
 Parent want to pick up a team member who team member wants to get to Squaw<br>
 <br>
-<strong>San Francisco Drop-Off<br>
-Parent want to pick up a team member who team member wants to get to Reno<br>
+<strong>San Francisco Drop-Off</strong><br>
+Parent want to pick up a team member who team member wants to get to San Francisco<br>
 <li>CAR</li>
 <li>ParkNRide SHUTTLE</li>
 <li>TART</li>
@@ -93,11 +93,11 @@ Parent want to pick up a team member who team member wants to get to Reno<br>
 </p>
 <hr>
 <p>
-<strong>Emeryville Pick Up<br>
+<strong>Emeryville Pick Up</strong><br>
 team member wants to get to Squaw<br>
 <br>
-<strong>Emeryville Drop-Off
-team member wants to get to Reno<br>
+<strong>Emeryville Drop-Off</strong><br>
+team member wants to get to Emeryville<br>
 <li>CAR</li>
 <li>ParkNRide SHUTTLE</li>
 <li>TART</li>
