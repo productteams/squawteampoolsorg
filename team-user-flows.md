@@ -15,7 +15,7 @@ team member wants to get from Resort to Home
 <li>INTRA-VALLEY SHUTTLE</li>
 <li>TART</li>
 <li>TEAMPOOL</li>
-
+<li>TEAMPOOL</li>
 </ul>
 </p>
 <hr>
@@ -27,6 +27,7 @@ team member wants to get to Truckee Hub<br>
 <li>INTRA-VALLEY SHUTTLE</li>
 <li>TART</li>
 <li>TEAMPOOL</li>
+<li>TEAMPOOL</li>
 </p>
 <hr>
 <p>
@@ -34,8 +35,9 @@ Tahoe City<br>
 team member wants to get to Squaw<br>
 team member wants to get to Tahoe city Hub<br>
 <li>CAR</li>
-<li>INTRA-VALLEY SHUTTLE</li>
+<li>ParkNRide SHUTTLE</li>
 <li>TART</li>
+<li>TEAMPOOL</li>
 <li>TEAMPOOL</li>
 </p>
 <hr>
@@ -44,7 +46,7 @@ Reno<br>
 team member wants to get to Squaw<br>
 team member wants to get to Reno<br>
 <li>CAR</li>
-<li>INTRA-VALLEY SHUTTLE</li>
+<li>ParkNRide SHUTTLE</li>
 <li>TART</li>
 <li>TEAMPOOL</li>
 </p>
@@ -54,7 +56,7 @@ Sacramento<br>
 team member wants to get to Squaw<br>
 team member wants to get to Reno<br>
 <li>CAR</li>
-<li>INTRA-VALLEY SHUTTLE</li>
+<li>ParkNRide SHUTTLE</li>
 <li>TART</li>
 <li>TEAMPOOL</li>
 </p>
@@ -64,7 +66,7 @@ San Francisco<br>
 team member wants to get to Squaw<br>
 team member wants to get to Reno<br>
 <li>CAR</li>
-<li>INTRA-VALLEY SHUTTLE</li>
+<li>ParkNRide SHUTTLE</li>
 <li>TART</li>
 <li>TEAMPOOL</li>
 </p>
@@ -74,7 +76,7 @@ Emeryville<br>
 team member wants to get to Squaw<br>
 team member wants to get to Reno<br>
 <li>CAR</li>
-<li>INTRA-VALLEY SHUTTLE</li>
+<li>ParkNRide SHUTTLE</li>
 <li>TART</li>
 <li>TEAMPOOL</li>
 </p>
