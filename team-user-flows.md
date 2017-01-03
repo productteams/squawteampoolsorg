@@ -3,18 +3,20 @@
 <br>
 team member wants a ride<br>
 <br>
-<strong>Basic principles:</strong>
-if user get to the resort they need to get home
+<strong>Basic principles:</strong><br>
+if user get to the resort they need to get home<br>
 <br>
 <p>
 Squaw<br>
 team member wants to get to Squaw<br>
 </p>
+<hr>
 <p>
 Truckee<br>
 team member wants to get to Squaw<br>
 team member wants to get to Truckee Hub<br>
 </p>
+<hr>
 <p>
 Tahoe City<br>
 team member wants to get to Squaw<br>
@@ -40,9 +42,9 @@ team member wants to get to Reno<br>
 </p>
 <hr>
 <p>
-Emeryville
-team member wants to get to Squaw
-team member wants to get to Reno
+Emeryville<br>
+team member wants to get to Squaw<br>
+team member wants to get to Reno<br>
 </p>
 <hr>
 </div>
