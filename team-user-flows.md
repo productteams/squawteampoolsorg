@@ -12,6 +12,7 @@ segregate team users in agegroups by ages <br>
 <strong>Excempt Status Group: </strong><br>
 <li>U19,U21; (16 and over, as of 1/01/2017 </li>
 
+<h2>Unaccompanied Minor</h2>
 <strong>May Travel Unaccompanied</strong><br>
 <li>(U16; ages 14 and 15),</li>
 <li>u14;(ages 13),</li>
