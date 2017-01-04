@@ -6,6 +6,9 @@ team member wants a ride<br>
 <br>
 <strong>Basic principles:</strong><br>
 if user get to the resort they need to get home<br>
+same car home / different car home
+
+
 <br>
 <p>
 <strong>Squaw Pick-up</strong><br>
