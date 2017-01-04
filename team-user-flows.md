@@ -5,10 +5,31 @@ team member wants a ride<br>
 <br>
 <strong>Basic principles:</strong><br>
 if user get to the resort they need to get home<br>
-sometimes the ride there is different than the ride home
-segregate team users by ages (16 and over), (13,14,15), (8,9,10,11,12), under 8 - no service.
+sometimes the ride there is different than the ride home<br>
 
-segregate team users by phone (have phone/dont have phone)
+segregate team users in agegroups by ages <br>
+<ul>
+<strong>Excempt Status Group: </strong><br>
+<li>U19,U21; (16 and over, as of 1/01/2017 </li>
+
+<strong>May Travel Unaccompanied</strong><br>
+<li>(U16; ages 14 and 15),</li>
+<li>u14;(ages 13),</li>
+<br>
+<strong>May not travel unaccompanied:</strong><br><br>
+<li>u14;(ages 12),</li>
+<li>U12; ages 11 and 10), </li>
+<li>U10; (ages 8 and 9)</li>
+
+<li>under 8 - no service.</li>
+<br>
+</ul>
+these correspond to u system team ages.
+http://alpine.usskiteam.com/sites/default/files/documents/athletics/compservices/2014-15/documents/AlpineAgeClasses.pdf
+
+
+<br>
+segregate team users by phone (have phone/dont have phone)<br>
 <br>
 <p>
 Squaw<br>
