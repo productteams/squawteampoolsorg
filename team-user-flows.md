@@ -5,6 +5,10 @@ team member wants a ride<br>
 <br>
 <strong>Basic principles:</strong><br>
 if user get to the resort they need to get home<br>
+sometimes the ride there is different than the ride home
+segregate team users by ages (16 and over), (13,14,15), (8,9,10,11,12), under 8 - no service.
+
+segregate team users by phone (have phone/dont have phone)
 <br>
 <p>
 Squaw<br>
