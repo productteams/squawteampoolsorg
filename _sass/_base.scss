@@ -23,7 +23,22 @@ body {
     background-image: $background-image "http://i.imgur.com/fpjfue0.jpg";
     -webkit-text-size-adjust: 100%;
 }
+/**
+ * adding parallax
+ */
+.parallax {
+    /* The image used */
+    background-image: url('img_parallax.jpg');
 
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 /**
