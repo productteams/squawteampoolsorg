@@ -1,7 +1,7 @@
 ---
 layout: page
 layout: Pricing
-permalink: /pricing/
+permalink:/pricing/
 ---
 
 <h2 style="text-align:center">Responsive Pricing Tables</h2>
