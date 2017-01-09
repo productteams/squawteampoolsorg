@@ -21,6 +21,9 @@ body {
     color: $text-color;
     background-color: $background-color;
     background-image: url(../20161224_110256.jpg);
+    background-repeat: no-repeat;
+    background-position: 50px;
+    background-attachment: fixed;
     -webkit-text-size-adjust: 100%;
 }
 /**
