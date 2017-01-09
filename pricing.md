@@ -1,7 +1,8 @@
 ---
 layout: page
-layout: Pricing
-permalink:/pricing/
+title:  "Pricing"
+date:   2016-09-03 13:46:40
+permalink: /pricing/
 ---
 
 <h2 style="text-align:center">Responsive Pricing Tables</h2>
