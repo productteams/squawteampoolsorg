@@ -22,7 +22,7 @@ body {
     background-color: $background-color;
     background-image: url(../20161220_124803.jpg);
     background-repeat: no-repeat;
-    background-position:center;
+    background-position:top;
     background-attachment: fixed;
     background-origin: content-box;
     padding: 75;
@@ -44,7 +44,7 @@ body, html {
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
   
