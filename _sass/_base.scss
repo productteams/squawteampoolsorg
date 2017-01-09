@@ -22,8 +22,10 @@ body {
     background-color: $background-color;
     background-image: url(../20161224_110256.jpg);
     background-repeat: no-repeat;
-    background-position: 50px;
+    background-position:center;
     background-attachment: fixed;
+    background-origin: content-box;
+    padding: 75;
     -webkit-text-size-adjust: 100%;
 }
 /**
@@ -45,6 +47,7 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+  
 }
 /**
  * Set `margin-bottom` to maintain vertical rhythm
