@@ -3,6 +3,21 @@ layout: page
 title: FAQ
 permalink: /faq/
 ---
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i; for (i = 0; i < acc.length; i++) {
+  acc[i].onclick = function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+	  if (panel.style.maxHeight){
+  	  panel.style.maxHeight = null;
+    } else {
+  	  panel.style.maxHeight = panel.scrollHeight + 'px';
+    } 
+  }
+}
+</script>
+
 <h2>FAQ</h2>
 <p>Ranked Frequently Asked Questions :  Number to left of answer is number of .</p>
 <div>
