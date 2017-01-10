@@ -43,7 +43,6 @@ LAST UPDATED 01/10/2017
 
     </tr>
     <tr>
-    Thursday Noon Flash ( predicts peak Friday evening/Saturday traffic)
       <td>Thurs</td>
       <td>Noon</td>
       <td>Bay>Squaw</td>
@@ -80,7 +79,6 @@ LAST UPDATED 01/10/2017
     </tr>
 
         <tr>
-    Thursday Noon Flash ( predicts peak Friday evening/Saturday traffic)
       <td>Thurs</td>
       <td>Noon</td>
       <td>Bay>Squaw</td>
@@ -115,9 +113,7 @@ LAST UPDATED 01/10/2017
       <td>67</td>
       <td>96%</td>
     </tr>
-    Thursday Noon Flash ( predicts peak Friday evening/Saturday traffic)
         <tr>
-    Thursday Noon Flash ( predicts peak Friday evening/Saturday traffic)
       <td>Thurs</td>
       <td>Noon</td>
       <td>Bay>Squaw</td>
