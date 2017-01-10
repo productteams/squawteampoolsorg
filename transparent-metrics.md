@@ -1,3 +1,8 @@
+---
+layout: page
+title: Transparency
+permalink: /Transparency/
+---
 <h2>Responsive Table</h2>
 <p>If you have a table that is too wide, you can add a container element with overflow-x:auto around the table, and it will display a horizontal scroll bar when needed.</p>
 <p>Resize the browser window to see the effect. Try to remove the div element and see what happens to the table.</p>
