@@ -1,12 +1,13 @@
+
 ---
 layout: page
 title: Transparency
 permalink: /Transparent-metrics/
 ---
 
-<h2>TRAFFIC SOLVED</h2>
 <div align="center">
 
+	<h2>TRAFFIC SOLVED</h2>
 </div>
 
 
@@ -27,42 +28,44 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
 <p>If you have a table that is too wide, you can add a container element with overflow-x:auto around the table, and it will display a horizontal scroll bar when needed.</p>
 <p>Resize the browser window to see the effect. Try to remove the div element and see what happens to the table.</p>
 
+LAST UPDATED 01/10/2017
 <div style="overflow-x:auto;">
   <table>
     <tr>
       <th>Day</th>
       <th>Time</th>
       <th>Trip</th>
-      <th>est. delay</th>
-      <th>act. delay</th>
-      <th>Accuracy</th>
-      <th>est. delay</th>
-      <th>act. delay</th>
-      <th>Accuracy</th>
+      <th>predicted</th>
+      <th>actual</th>
+      <th>+/-</th>
+      <th>predicted</th>
+      <th>actual</th>
+      <th>Score</th>
 
     </tr>
     <tr>
+    Thursday Noon Flash ( predicts peak Friday evening/Saturday traffic)
       <td>Thurs</td>
       <td>Noon</td>
       <td>Bay>Squaw</td>
-      <td>+1:50</td>
-      <td>+2:00</td>
-      <td>90%</td>
+      <td>1:50</td>
+      <td>2:00</td>
+      <td>+0:30</td>
       <td>1:57</td>
       <td>1:53</td>
       <td>98%</td>
 
     </tr>
     <tr>
-      <td>Eve</td>
-      <td>Jackson</td>
+      <td>Fri</td>
+      <td>Noon</td>
       <td>94</td>
       <td>94</td>
       <td>94</td>
       <td>94</td>
       <td>94</td>
       <td>94</td>
-      <td>94</td>
+      <td>96%</td>
  
     </tr>
     <tr>
@@ -74,8 +77,82 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
       <td>67</td>
       <td>67</td>
       <td>67</td>
+      <td>96%</td>
+    </tr>
+
+        <tr>
+    Thursday Noon Flash ( predicts peak Friday evening/Saturday traffic)
+      <td>Thurs</td>
+      <td>Noon</td>
+      <td>Bay>Squaw</td>
+      <td>1:50</td>
+      <td>2:00</td>
+      <td>+0:30</td>
+      <td>1:57</td>
+      <td>1:53</td>
+      <td>98%</td>
+
+    </tr>
+    <tr>
+      <td>Fri</td>
+      <td>Noon</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>96%</td>
+ 
+    </tr>
+    <tr>
+      <td>Adam</td>
+      <td>Johnson</td>
       <td>67</td>
-<!-- always insure right column visible on mobile -->
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>96%</td>
+    </tr>
+    Thursday Noon Flash ( predicts peak Friday evening/Saturday traffic)
+        <tr>
+    Thursday Noon Flash ( predicts peak Friday evening/Saturday traffic)
+      <td>Thurs</td>
+      <td>Noon</td>
+      <td>Bay>Squaw</td>
+      <td>1:50</td>
+      <td>2:00</td>
+      <td>+0:30</td>
+      <td>1:57</td>
+      <td>1:53</td>
+      <td>98%</td>
+
+    </tr>
+    <tr>
+      <td>Fri</td>
+      <td>Noon</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>96%</td>
+ 
+    </tr>
+    <tr>
+      <td>Adam</td>
+      <td>Johnson</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>96%</td>
     </tr>
   </table>
+  <!-- always insure right column visible on mobile -->
 </div>	
