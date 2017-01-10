@@ -28,6 +28,7 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
 <p>Resize the browser window to see the effect. Try to remove the div element and see what happens to the table.</p>
 </div>
 <div>LAST UPDATED 01/10/2017</div>
+
 <div style="overflow-x:auto;">
   <table>
     <tr>
@@ -40,7 +41,6 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
       <th>predicted</th>
       <th>actual</th>
       <th>Score</th>
-
     </tr>
     <tr>
       <td>Thurs</td>
@@ -52,7 +52,6 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
       <td>1:57</td>
       <td>1:53</td>
       <td>98%</td>
-
     </tr>
     <tr>
       <td>Fri</td>
@@ -64,7 +63,6 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
       <td>94</td>
       <td>94</td>
       <td>96%</td>
- 
     </tr>
     <tr>
       <td>Adam</td>
@@ -77,7 +75,6 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
       <td>67</td>
       <td>96%</td>
     </tr>
-
         <tr>
       <td>Thurs</td>
       <td>Noon</td>
@@ -149,5 +146,6 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
       <td>96%</td>
     </tr>
   </table>
-  <!-- always insure right column visible on mobile -->
+  
 </div>	
+<!-- always insure right column visible on mobile -->
