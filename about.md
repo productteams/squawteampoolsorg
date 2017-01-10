@@ -9,7 +9,7 @@ Teampools is an organization on a mission to help Parents get their kids to the 
 </p>
 <p>
 About Us
-
+<div>
 <h2>Round Card A</h2>
 
 <div class="card">
@@ -39,7 +39,7 @@ About Us
     <p>Interior Designer</p> 
   </div>
 </div>
-
+</div>
 </p>
 
 
