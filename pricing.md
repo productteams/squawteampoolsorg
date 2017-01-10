@@ -25,7 +25,7 @@ permalink: /pricing/
     <li class="header" style="background-color:#4CAF50">Weekly Concierge</li>
     <li class="grey">$ 19 / week</li>
     <li>Dedicated Concierge</li>
-    <li>Everything in Basic</li>
+    <li>Everything in BASIC</li>
     <li>VIP Event Access </li>
     <li>VIP Parking Access</li>
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
@@ -37,7 +37,7 @@ permalink: /pricing/
     <li class="header">Full Season Concierge</li>
     <li class="grey">$ 149 / Ski Season</li>
     <li>Dedicated Concierge</li>
-    <li>North Tahoe Discounts/</li>
+    <li>Everything included in BASIC</li>
     <li>VIP Parking Access </li>
     <li>VIP RIdes (less than 15 min wait or its free)</li>
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
