@@ -5,6 +5,7 @@ permalink: /faq/
 ---
 <h2>FAQ</h2>
 <p>Ranked Frequently Asked Questions :  Number to left of answer is number of .</p>
+<div>
 <button class="accordion">Section 1</button>
 <div class="panel">
   <p>this is first content, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -79,7 +80,7 @@ permalink: /faq/
 <div class="panel">
   <p>thisis third contentdolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
-
+</div>
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;
