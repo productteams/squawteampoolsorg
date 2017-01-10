@@ -9,7 +9,7 @@ permalink: /Transparent-metrics/
 	<h2>TRAFFIC SOLVED</h2>
 </div>
 
-<div>
+
 <p>
 <strong>WE PREDICT LOCAL TRAFFIC</strong>. We forecast up to 48-hours in advance and provide recommendations to our customers based on this knowledge. We combine historical data, weather data and real time anticipated traffic impacts such as construction and upcoming events to accurately model when is the best time for our customers to have the best experience possible. 
 </p>
@@ -26,9 +26,9 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
 </p>
 <p>If you have a table that is too wide, you can add a container element with overflow-x:auto around the table, and it will display a horizontal scroll bar when needed.</p>
 <p>Resize the browser window to see the effect. Try to remove the div element and see what happens to the table.</p>
-</div>
-<div>LAST UPDATED 01/10/2017</div>
 
+<!-- beginning of table for weekly -->
+LAST UPDATED 01/10/2017
 <div style="overflow-x:auto;">
   <table>
     <tr>
@@ -41,6 +41,7 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
       <th>predicted</th>
       <th>actual</th>
       <th>Score</th>
+
     </tr>
     <tr>
       <td>Thurs</td>
@@ -52,6 +53,7 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
       <td>1:57</td>
       <td>1:53</td>
       <td>98%</td>
+
     </tr>
     <tr>
       <td>Fri</td>
@@ -63,6 +65,7 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
       <td>94</td>
       <td>94</td>
       <td>96%</td>
+ 
     </tr>
     <tr>
       <td>Adam</td>
@@ -75,6 +78,7 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
       <td>67</td>
       <td>96%</td>
     </tr>
+
         <tr>
       <td>Thurs</td>
       <td>Noon</td>
@@ -146,6 +150,132 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
       <td>96%</td>
     </tr>
   </table>
-  
 </div>	
+  <!-- always insure right column visible on mobile -->	
+
+!-- beginning of table for weekly -->
+LAST UPDATED 01/10/2017
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <th>Day</th>
+      <th>Time</th>
+      <th>Trip</th>
+      <th>predicted</th>
+      <th>actual</th>
+      <th>+/-</th>
+      <th>predicted</th>
+      <th>actual</th>
+      <th>Score</th>
+
+    </tr>
+    <tr>
+      <td>Thurs</td>
+      <td>Noon</td>
+      <td>Bay>Squaw</td>
+      <td>1:50</td>
+      <td>2:00</td>
+      <td>+0:30</td>
+      <td>1:57</td>
+      <td>1:53</td>
+      <td>98%</td>
+
+    </tr>
+    <tr>
+      <td>Fri</td>
+      <td>Noon</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>96%</td>
+ 
+    </tr>
+    <tr>
+      <td>Adam</td>
+      <td>Johnson</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>96%</td>
+    </tr>
+
+        <tr>
+      <td>Thurs</td>
+      <td>Noon</td>
+      <td>Bay>Squaw</td>
+      <td>1:50</td>
+      <td>2:00</td>
+      <td>+0:30</td>
+      <td>1:57</td>
+      <td>1:53</td>
+      <td>98%</td>
+
+    </tr>
+    <tr>
+      <td>Fri</td>
+      <td>Noon</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>96%</td>
+ 
+    </tr>
+    <tr>
+      <td>Adam</td>
+      <td>Johnson</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>96%</td>
+    </tr>
+        <tr>
+      <td>Thurs</td>
+      <td>Noon</td>
+      <td>Bay>Squaw</td>
+      <td>1:50</td>
+      <td>2:00</td>
+      <td>+0:30</td>
+      <td>1:57</td>
+      <td>1:53</td>
+      <td>98%</td>
+
+    </tr>
+    <tr>
+      <td>Fri</td>
+      <td>Noon</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>94</td>
+      <td>96%</td>
+ 
+    </tr>
+    <tr>
+      <td>Adam</td>
+      <td>Johnson</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>67</td>
+      <td>96%</td>
+    </tr>
+  </table>
+</div>	
+  
 <!-- always insure right column visible on mobile -->
