@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Transparency
-permalink: /Transparency/
+permalink: /Transparent-metrics/
 ---
 
 <h2>TRAFFIC SOLVED</h2>
