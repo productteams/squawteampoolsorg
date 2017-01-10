@@ -6,7 +6,7 @@ permalink: /pricing/
 ---
 
 <h2 style="text-align:center">Flexible Simple Pricing</h2>
-<p style="text-align:center">Locals get 50% off (must address validate.<a href:Learn how/a>)</p>
+<p style="text-align:center">Locals get 50% off. Must address validate.<a href="https://www.teampools.org/" target="_blank">Learn How!</a></p>
 
 <div class="columns">
   <ul class="price">
