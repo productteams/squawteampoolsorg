@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Transparency
 permalink: /Transparency/
@@ -7,7 +7,6 @@ permalink: /Transparency/
 <h2>TRAFFIC SOLVED</h2>
 <div align="center">
 
-	<strong></strong><br>
 </div>
 
 
