@@ -9,7 +9,7 @@ permalink: /Transparent-metrics/
 	<h2>TRAFFIC SOLVED</h2>
 </div>
 
-
+<div>
 <p>
 <strong>WE PREDICT LOCAL TRAFFIC</strong>. We forecast up to 48-hours in advance and provide recommendations to our customers based on this knowledge. We combine historical data, weather data and real time anticipated traffic impacts such as construction and upcoming events to accurately model when is the best time for our customers to have the best experience possible. 
 </p>
@@ -26,8 +26,8 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
 </p>
 <p>If you have a table that is too wide, you can add a container element with overflow-x:auto around the table, and it will display a horizontal scroll bar when needed.</p>
 <p>Resize the browser window to see the effect. Try to remove the div element and see what happens to the table.</p>
-
-LAST UPDATED 01/10/2017
+</div>
+<div>LAST UPDATED 01/10/2017</div>
 <div style="overflow-x:auto;">
   <table>
     <tr>
