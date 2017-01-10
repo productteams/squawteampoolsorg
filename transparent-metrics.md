@@ -29,6 +29,7 @@ parkNski aggregates GPS Tracking Data, Public Road Sensors, Incident/Accident Re
 
 <!-- beginning of table for weekly -->
 LAST UPDATED 01/10/2017
+
 <div style="overflow-x:auto;">
   <table>
     <tr>
@@ -153,8 +154,10 @@ LAST UPDATED 01/10/2017
 </div>	
   <!-- always insure right column visible on mobile -->	
 
-!-- beginning of table for weekly -->
-LAST UPDATED 01/10/2017
+<!-- beginning of table for weekly -->
+
+<div>LAST UPDATED 01/10/2017</div>
+
 <div style="overflow-x:auto;">
   <table>
     <tr>
@@ -277,5 +280,4 @@ LAST UPDATED 01/10/2017
     </tr>
   </table>
 </div>	
-  
-<!-- always insure right column visible on mobile -->
+<!-- end of table -->
