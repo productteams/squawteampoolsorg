@@ -15,8 +15,9 @@ About Us
 <div class="card">
   <img src="../Screenshot 2017-01-09 16.10.20.png" alt="Avatar" style="width:100%">
   <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> 
+    <h4><b>Ariana Carrington</b></h4> 
+    <p>Visuals</p> 
+    <p><a href="http://www.w3schools.com/" target="_blank">See More</a></p> 
   </div>
 </div>
 
@@ -25,8 +26,9 @@ About Us
 <div class="card">
   <img src="../Screenshot 2017-01-09 16.10.20.png" alt="Avatar" style="width:100%">
   <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> 
+    <h4><b>Bruno Rocca</b></h4> 
+    <p>product</p> 
+    <p><a href="http://www.w3schools.com/" target="_blank">LinkedIn</a></p> 
   </div>
 </div>
 
@@ -35,8 +37,9 @@ About Us
 <div class="card">
   <img src="../Screenshot 2017-01-09 16.10.20.png" alt="Avatar" style="width:100%">
   <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> 
+    <h4><b>Libby Evans</b></h4> 
+    <p>Text</p> 
+    <p><a href="http://www.w3schools.com/" target="_blank">Read More</a></p> 
   </div>
 </div>
 </div>
