@@ -13,7 +13,7 @@ About Us
 <h2>Round Card A</h2>
 
 <div class="card">
-  <img src="img_avatar2.png" alt="Avatar" style="width:100%">
+  <img src="Screenshot 2017-01-09 16.10.20.png" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Jane Doe</b></h4> 
     <p>Interior Designer</p> 
@@ -23,7 +23,7 @@ About Us
 <h2>Round Card B</h2>
 
 <div class="card">
-  <img src="img_avatar2.png" alt="Avatar" style="width:100%">
+  <img src="Screenshot 2017-01-09 16.10.20.png" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Jane Doe</b></h4> 
     <p>Interior Designer</p> 
@@ -33,7 +33,7 @@ About Us
 <h2>Round Card C</h2>
 
 <div class="card">
-  <img src="img_avatar2.png" alt="Avatar" style="width:100%">
+  <img src="Screenshot 2017-01-09 16.10.20.png" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Jane Doe</b></h4> 
     <p>Interior Designer</p> 
