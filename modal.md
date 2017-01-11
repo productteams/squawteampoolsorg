@@ -3,6 +3,15 @@ layout: page
 title: modal
 permalink: /modal/
 ---
+<!-- horizontal icon bar for fast navigation -->
+<div class="icon-bar">
+  <a class="active" href="#"><i class="fa fa-home"></i></a> 
+  <a href="#"><i class="fa fa-search"></i></a> 
+  <a href="#"><i class="fa fa-envelope"></i></a> 
+  <a href="#"><i class="fa fa-globe"></i></a>
+  <a href="#"><i class="fa fa-trash"></i></a> 
+</div>
+<!-- end of horizontal icon bar for fast navigation -->
 <div class="w3-container">
 <h2>Modal Tabs</h2>
 <p>In this example we add tabbed content inside the modal.</p>
