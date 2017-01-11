@@ -9,7 +9,7 @@ permalink: /modal/
   <a href="#"><i class="fa fa-search"></i></a> 
   <a href="#"><i class="fa fa-envelope"></i></a> 
   <a href="#"><i class="fa fa-globe"></i></a>
-  <a href="#"><i class="fa fa-trash"></i></a> 
+  <a href="#"><i class="fa fa-bolt" aria-hidden="true"></i></a> 
 </div>
 <!-- end of horizontal icon bar for fast navigation -->
 <div class="w3-container">
